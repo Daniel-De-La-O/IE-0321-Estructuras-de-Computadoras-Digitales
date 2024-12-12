@@ -1,0 +1,3 @@
+# Calculadora MRUA en C
+Se programó en lenguaje C un código que le solicita al usuario datos de velocidad inicial (Vi), Velocidad final (Vf), aceleración (a),
+distancia (d) y tiempo (t). Al ejecutar el programa, el usuario debe ingresar estos datos excepto dos de ellos, de los cuáles uno será el que se calculará y otro será un dato excluido totalmente de los cálculos. El programa acepta números en punto flotante. Al escribir la palabra "salir" en cualquiera de los campos, el programa finaliza.
