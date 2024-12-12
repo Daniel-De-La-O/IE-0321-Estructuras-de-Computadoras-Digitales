@@ -1,1 +1,1 @@
-# IE-0321-Estructuras-de-Computadoras-Digitales
+#Estructuras-de-Computadoras-Digitales
